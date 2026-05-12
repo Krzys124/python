@@ -24,3 +24,5 @@ wyplata_pln = float(tekst_csv[pozycja + 2:])
 
 print(f"\nwyplata PLN: {wyplata_pln:,.2f}")
 print(f"wyplata EUR: {wyplata_pln*4.33:,.2f}")
+
+
