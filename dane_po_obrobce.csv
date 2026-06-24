@@ -1,0 +1,75 @@
+pojazd: Toyota ile: {'suma_cen:': 3218375.0, 'sredni_przebieg': 180993.48, 'ile': 40}
+pojazd: Chrysler ile: {'suma_cen:': 3096894.0, 'sredni_przebieg': 161666.92, 'ile': 38}
+pojazd: Honda ile: {'suma_cen:': 1852066.0, 'sredni_przebieg': 175110.69, 'ile': 26}
+pojazd: Dacia ile: {'suma_cen:': 2442891.0, 'sredni_przebieg': 169848.48, 'ile': 29}
+pojazd: Volvo ile: {'suma_cen:': 2725341.0, 'sredni_przebieg': 172728.86, 'ile': 35}
+pojazd: Mazda ile: {'suma_cen:': 3207465.0, 'sredni_przebieg': 146275.79, 'ile': 38}
+pojazd: Volswagen ile: {'suma_cen:': 2849522.0, 'sredni_przebieg': 179073.61, 'ile': 41}
+pojazd: Citroen ile: {'suma_cen:': 2081950.0, 'sredni_przebieg': 196862.57, 'ile': 28}
+pojazd: Mercedes ile: {'suma_cen:': 2764429.0, 'sredni_przebieg': 174270.25, 'ile': 36}
+pojazd: Peugeot ile: {'suma_cen:': 2230999.0, 'sredni_przebieg': 184932.24, 'ile': 29}
+pojazd: Daewoo ile: {'suma_cen:': 2999047.0, 'sredni_przebieg': 193385.8, 'ile': 40}
+pojazd: BMW ile: {'suma_cen:': 2832537.0, 'sredni_przebieg': 161312.84, 'ile': 37}
+pojazd: Renault ile: {'suma_cen:': 2095622.0, 'sredni_przebieg': 161682.19, 'ile': 27}
+pojazd: Kia ile: {'suma_cen:': 3133227.0, 'sredni_przebieg': 171883.93, 'ile': 41}
+pojazd: Alfa Romeo ile: {'suma_cen:': 3293874.0, 'sredni_przebieg': 176888.49, 'ile': 39}
+pojazd: Fiat ile: {'suma_cen:': 2803085.0, 'sredni_przebieg': 175950.64, 'ile': 36}
+pojazd: Seat ile: {'suma_cen:': 3180186.0, 'sredni_przebieg': 171640.32, 'ile': 38}
+pojazd: Opel ile: {'suma_cen:': 2887115.0, 'sredni_przebieg': 193050.83, 'ile': 42}
+pojazd: Ford ile: {'suma_cen:': 2207597.0, 'sredni_przebieg': 168760.3, 'ile': 27}
+pojazd: Chevrolet ile: {'suma_cen:': 2935951.0, 'sredni_przebieg': 176909.08, 'ile': 36}
+pojazd: Skoda ile: {'suma_cen:': 2819820.0, 'sredni_przebieg': 165550.37, 'ile': 38}
+pojazd: Audi ile: {'suma_cen:': 2480167.0, 'sredni_przebieg': 156611.06, 'ile': 33}
+pojazd: Aston Martin ile: {'suma_cen:': 2119192.0, 'sredni_przebieg': 174601.8, 'ile': 25}
+-------------------------------dane z prettytable-------------------------------
++--------------+-----+-----------+-----------------+
+|    Marka     | Ile |    Suma   | Sredni przebieg |
++--------------+-----+-----------+-----------------+
+|    Toyota    |  40 | 3218375.0 |    180993.48    |
+|   Chrysler   |  38 | 3096894.0 |    161666.92    |
+|    Honda     |  26 | 1852066.0 |    175110.69    |
+|    Dacia     |  29 | 2442891.0 |    169848.48    |
+|    Volvo     |  35 | 2725341.0 |    172728.86    |
+|    Mazda     |  38 | 3207465.0 |    146275.79    |
+|  Volswagen   |  41 | 2849522.0 |    179073.61    |
+|   Citroen    |  28 | 2081950.0 |    196862.57    |
+|   Mercedes   |  36 | 2764429.0 |    174270.25    |
+|   Peugeot    |  29 | 2230999.0 |    184932.24    |
+|    Daewoo    |  40 | 2999047.0 |     193385.8    |
+|     BMW      |  37 | 2832537.0 |    161312.84    |
+|   Renault    |  27 | 2095622.0 |    161682.19    |
+|     Kia      |  41 | 3133227.0 |    171883.93    |
+|  Alfa Romeo  |  39 | 3293874.0 |    176888.49    |
+|     Fiat     |  36 | 2803085.0 |    175950.64    |
+|     Seat     |  38 | 3180186.0 |    171640.32    |
+|     Opel     |  42 | 2887115.0 |    193050.83    |
+|     Ford     |  27 | 2207597.0 |     168760.3    |
+|  Chevrolet   |  36 | 2935951.0 |    176909.08    |
+|    Skoda     |  38 | 2819820.0 |    165550.37    |
+|     Audi     |  33 | 2480167.0 |    156611.06    |
+| Aston Martin |  25 | 2119192.0 |     174601.8    |
++--------------+-----+-----------+-----------------+-------------------------------dane z prettytable jak csv-------------------------------
+Marka,Ile,Suma,Sredni przebieg
+Toyota,40,3218375.0,180993.48
+Chrysler,38,3096894.0,161666.92
+Honda,26,1852066.0,175110.69
+Dacia,29,2442891.0,169848.48
+Volvo,35,2725341.0,172728.86
+Mazda,38,3207465.0,146275.79
+Volswagen,41,2849522.0,179073.61
+Citroen,28,2081950.0,196862.57
+Mercedes,36,2764429.0,174270.25
+Peugeot,29,2230999.0,184932.24
+Daewoo,40,2999047.0,193385.8
+BMW,37,2832537.0,161312.84
+Renault,27,2095622.0,161682.19
+Kia,41,3133227.0,171883.93
+Alfa Romeo,39,3293874.0,176888.49
+Fiat,36,2803085.0,175950.64
+Seat,38,3180186.0,171640.32
+Opel,42,2887115.0,193050.83
+Ford,27,2207597.0,168760.3
+Chevrolet,36,2935951.0,176909.08
+Skoda,38,2819820.0,165550.37
+Audi,33,2480167.0,156611.06
+Aston Martin,25,2119192.0,174601.8
